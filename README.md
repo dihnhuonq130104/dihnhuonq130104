@@ -24,7 +24,9 @@
 <br>
 
 <div align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dihnhuonq130104&show_icons=true&theme=tokyonight" />
-  
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=dihnhuonq130104&show_icons=true&theme=tokyonight" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dihnhuonq130104&show_icons=true&theme=tokyonight" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dihnhuonq130104&layout=compact&theme=tokyonight" />
+
 </div>
