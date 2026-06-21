@@ -1,29 +1,28 @@
-# <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=33DAFF&center=true&vCenter=true&width=600&lines=WELCOME+TO+MY+PAGE" /></p>
+### <p align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=WELCOME+TO+MY+PAGE+%F0%9F%91%8B%F0%9F%91%8B%F0%9F%91%8B)](https://git.io/typing-svg)</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=glitch&color=000000&height=300&section=header&text=%C4%90INH%20TH%E1%BB%8A%20H%C6%AF%E1%BB%9CNG&fontSize=80&fontColor=ffffff" />
+  <a href="https://github.com/dihnhuonq130104">
+    <img width="100%" alt="Đinh Thị Hường" src="name.png" />
+  </a>
 </p>
 
-## <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F711F7&center=true&vCenter=true&width=600&lines=I+am+studying+AI+engineering+at+PTIT" /></p>
+<br />
 
+<p align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DC1DF7&random=false&width=435&lines=I+am+studying+AI+engineering+at+PTIT.)](https://git.io/typing-svg)
+</p>
+
+<p align="center">
+ <strong>☕ I am interested in the following topics: Deep Learning in NLP and Computer Vision. Reinforcement Learning.</strong>
+</p>
+
+<br>
+<h2 align="center">🔥 GitHub Stats 🔥</h2>
 <br>
 
 <div align="center">
-  
-☕ **I am interested in the following topics:**
-  
-`Deep Learning in NLP` • `Computer Vision` • `Reinforcement Learning`
-
+  <img width="410" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dihnhuonq130104&show_icons=true&theme=tokyonight" />
+  <img width="434" src="https://github-readme-stats.vercel.app/api?username=dihnhuonq130104&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
 </div>
 
----
-
-### 📊 My GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=dihnhuonq130104&show_icons=true&theme=dracula&rank_icon=github&border_radius=10" alt="Hường's github stats" />
-</p>
-
----
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dihnhuonq130104&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
-</p>
+<br>
